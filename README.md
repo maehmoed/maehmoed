@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maehmoed Souid
+# Ahmed SOUID
 
 ### CTO • Product Engineer • Digital Product Designer • QA Strategist
 
